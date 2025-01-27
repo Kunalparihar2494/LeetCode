@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leets",
+  "homepage": "https://github.com/Kunalparihar2494/LeetCode#readme",
+  "bugs": {
+    "url": "https://github.com/Kunalparihar2494/LeetCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunalparihar2494/LeetCode.git"
+  },
+  "license": "ISC",
+  "author": "kunal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
